@@ -1,5 +1,11 @@
 # A Brief History of Programming
 
+**Keywords**: *programming, history, eniac, fermiac, python, fortran, c, c++, matlab*
+
+**Summary**: This note provides a brief history of the development of computers and computer programming languages and their mutual interaction with rapid developments in natural sciences in the 20th century.
+
+**Note**: A world-wide-web version of this lecture that includes the video embeddings is [available here](https://www.cdslab.org/python/notes/preliminary-foundations/programming-history/programming-history.html).  
+
 ## Programming glossary
 
 The following table contains some technical programming phrases that are often used and heard in the field of computer science and programming, that you need to be familiar with as well.  
@@ -197,7 +203,9 @@ Depending on their levels of abstraction, programming languages are classified i
         <img src="PLchart.png" width="900">
     </a>
     <figcaption style="text-align:center">
+        <br>
         A diagram tracing the history of computer languages throughout the history of computer science.
+        <br>
     </figcaption>
 </figure>
 <br>
@@ -217,7 +225,9 @@ Programming paradigms are a way to classify programming languages based on their
         <img src="progEvol.png" width="900">
     </a>
     <figcaption style="text-align:center">
+        <br>
         A schematic representation of the evolution of programming techniques.
+        <br>
     </figcaption>
 </figure>
 
@@ -228,7 +238,9 @@ Among all, however, the last two programming paradigms are the most important an
         <img src="imperative.gif" width="500">
     </a>
     <figcaption style="text-align:center">
+        <br>
         A schematic representation of the structure of imperative (procedural) programming.
+        <br>
     </figcaption>
 </figure>
 
@@ -248,8 +260,10 @@ A few decades after the first imperative programming languages were developed, c
     </a>
     -->
         <img src="oop_car.png" width="500">
-    <figcaption style="text-align:center">
+    <figcaption style="text-align:center">  
+        <br>
         A example of a OOP class describing a car, with its attributes and methods.
+        <br>
     </figcaption>
 </figure>
 <br>
@@ -290,7 +304,9 @@ Sometimes science acts like humans: it finds a matching partner (a programming l
         <img src="plasma-aerospace-fortran.png" width="900">
     </a>
     <figcaption style="text-align:justify">
+        <br>
         A plot illustrating the co-evolution of two of the most challenging computationally-intensive fields of science (Aerospace and Plasma Physics) with the most popular high-performance scientific programming language in human history as of today. The vertical axis represents the relative word-usage frequency of the three keywords (Plasma, Aerospace, and Fortran) in all digital corpus, and the horizontal axis represents the year. Note that the downward slope of the curves in later times does NOT imply the decline of these fields of science or the decline of Fortran. It merely means that they have reached their exponential peak growth in the mid-1980s, and are now expanding steadily (linearly), whereas other newer fields (such as bioinformatics) are being more and more frequently referenced than the above three keywords every year in all digital corpus.
+        <br>
     </figcaption>
 </figure>
 
@@ -301,7 +317,9 @@ Many times throughout recent history, some specific fields of science have boost
         <img src="bioinformatics-python.png" width="900">
     </a>
     <figcaption style="text-align:justify">
+        <br>
         A plot illustrating the co-evolution and thriving of the field of bioinformatics with the popular programming language, Python. The vertical axis represents the relative word-usage frequency of the two keywords (Bioinformatics and Python) in all digital corpus, and the horizontal axis represents the year.
+        <br>
     </figcaption>
 </figure>
 
@@ -312,7 +330,9 @@ Sometimes, a programming language couples with a specific field of science and t
         <img src="bioinformatics-python-perl.png" width="900">
     </a>
     <figcaption style="text-align:justify">
+        <br>
         A plot illustrating the evolution and steady expansion of the Perl programming language and its gradual replacement with Python, in the field of bioinformatics. The vertical axis represents the relative word-usage frequency of the three keywords (Bioinformatics, Python, and Perl) in all digital corpus, and the horizontal axis represents the year.
+        <br>
     </figcaption>
 </figure>
 
